@@ -15,3 +15,7 @@ To build an interactive and insightful dashboard that helps analyze sales perfor
 
 ## Screenshots
 ![Screenshot 2025-05-25 183444](https://github.com/user-attachments/assets/d8a5e6ef-fc74-41b5-ab89-aa5faf229fc0)
+
+## Certificate
+![Document_1748173373076_page-0001](https://github.com/user-attachments/assets/42200c4d-2896-4a23-94b6-55a113fef710)
+
